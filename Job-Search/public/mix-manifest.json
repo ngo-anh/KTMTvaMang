@@ -1,0 +1,10 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/libs/css/normalize.css": "/libs/css/normalize.css",
+    "/libs/css/bootstrap.min.css": "/libs/css/bootstrap.min.css",
+    "/libs/js/jquery.min.js": "/libs/js/jquery.min.js",
+    "/libs/js/jquery.slim.min.js": "/libs/js/jquery.slim.min.js",
+    "/libs/js/popper.min.js": "/libs/js/popper.min.js",
+    "/libs/js/bootstrap.min.js": "/libs/js/bootstrap.min.js"
+}
